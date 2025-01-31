@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/d00c2fe3-c3c7-420b-897b-1d26b42a9ba1)
 
 # Secure Login and Registration System  
 
